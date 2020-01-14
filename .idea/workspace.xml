@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c337d916-fc58-4a21-ae48-23a5f885e4ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/capnp-js-test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capnp/hr.capnp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/capnp-jcm/CONTRIBUTORS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/capnp-jcm/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/capnp-jcm/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/capnp-jcm/bin/darwin-x64-v8-7.4/capnp.node" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/capnp-jcm/binding.gyp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/capnp-jcm/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/capnp-jcm/build/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/capnp-jcm/build/Release/.deps/Release/capnp.node.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/capnp-jcm/build/Release/.deps/Release/obj.target/capnp/src/node-capnp/capnp.o.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/capnp-jcm/build/Release/obj.target/capnp/src/node-capnp/capnp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/capnp-jcm/build/binding.Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/capnp-jcm/build/capnp.target.mk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/capnp-jcm/build/config.gypi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/capnp-jcm/build/gyp-mac-tool" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/capnp-jcm/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/capnp-jcm/src/node-capnp/capnp-test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/capnp-jcm/src/node-capnp/capnp.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/capnp-jcm/src/node-capnp/capnp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/capnp-jcm/src/node-capnp/node-capnp.ekam-manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/capnp-jcm/src/node-capnp/test.capnp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/capnp-jcm/src/node-capnp/testdata/binary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/capnp-jcm/src/node-capnp/testdata/flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/capnp-jcm/src/node-capnp/testdata/packedbinary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/capnp-jcm/src/node-capnp/testdata/packedflat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WNtYuYoL3qsHSUpb9HiPQJXfxX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c337d916-fc58-4a21-ae48-23a5f885e4ac" name="Default Changelist" comment="" />
+      <created>1579001930452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579001930452</updated>
+      <workItem from="1579001933412" duration="613000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
